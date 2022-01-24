@@ -1,2 +1,3 @@
 1-fayl o'zgarishlari
 git pull buyrug`i markaziy ombordagi o`zgarishlarni mahalliy omborga ko`chiradi.
+git fetch buyrug`i uchun qator qo`shdik.
