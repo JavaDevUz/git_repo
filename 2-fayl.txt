@@ -1,2 +1,3 @@
 "Hello World!"
 git push buyrugini sinab koramiz
+git fetch buyrugini sinab koramiz
